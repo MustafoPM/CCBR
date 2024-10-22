@@ -1,0 +1,10 @@
+.parent {
+    display: flex;
+}
+
+.square {
+    width: 120px;
+    height: 120px;
+    background: black;
+    margin: 10px 10px;
+}

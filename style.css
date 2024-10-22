@@ -1,0 +1,30 @@
+.parent {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.square {
+    width: 800px;
+    height: 800px;
+    background: black;
+    margin: 10px 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    align-items: center;
+    margin-left: 43%;
+    width: 150px;
+    height: 60px;
+}
+
+.items {
+    display: grid;
+    justify-content: center;
+}
+
+body {
+    background-color: black;
+}
